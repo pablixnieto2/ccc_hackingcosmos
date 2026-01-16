@@ -1,21 +1,9 @@
 # 🌌 COSMIC ACCESS PROTOCOL // INITIATION 🚀
 
-.           .
-     .    * .       .  *
-        +---------------------+
-       /|                     /|
-      / |  ⚠️  SYSTEM LOCK   / |
-     /  |                   /  |
-    +---------------------+    |
-    |   |                 |    |
-    |   |   [ DATA CORE ] |    |  .
-    |   |                 |    |
-    |   +-----------------|----+
-    |  /                  |  /
-    | /   MISSING KEY...  | /
-    |/                    |/
-    +---------------------+
-   .    * .       .
+Nieto Muñoz, P. M. (2025). The Geometry of the Echo: Observational
+Confirmation of the Chiral Dodecahedral Universe (1.0.0). Zenodo. https://
+doi.org/10.5281/zenodo.18107271
+https://zenodo.org/records/18107271
 
    ---
 
